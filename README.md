@@ -48,4 +48,5 @@ I turn messy business data into clear insights. I build **end-to-end analytics p
 
 ## 📫 Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-anselmo/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavo03anselmo-afk)
