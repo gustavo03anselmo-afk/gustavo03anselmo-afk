@@ -4,7 +4,7 @@
 
 I turn messy business data into clear insights. I build **end-to-end analytics projects**: data cleaning in Python (pandas), analysis in SQL (PostgreSQL), data modelling, DAX and Power BI dashboards that track performance against targets.
 
-🇪🇺 EU citizen (Portuguese) | Based in Warsaw, Poland
+Portuguese/Brazilian | Based in Warsaw, Poland
 
 ---
 
